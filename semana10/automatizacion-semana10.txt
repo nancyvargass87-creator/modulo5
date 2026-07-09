@@ -1,0 +1,9 @@
+﻿Un flujo simple de automatización en n8 N que conecta con Telegram consiste en recibir un mensaje en tu Bot
+y enviar una respuesta automática o notificación
+Qué mensaje se envía a Telegram pues creo yo que al Telegram se envían textos
+La información que no debe enviarse por seguridad son los datos personales
+La combinación de metodologías ágiles autorización y plataformas como Telegram pueden estructurar procesos de
+participación más transparentes adaptables y eficientes estos elementos pueden reducen la carga operativa y fomentan una
+comunicación direccional y masiva a la comunidad O sea que es más fácil de hacer un proyecto o tener pongámosle permite 
+ver la fase como inician las tareas y están en proceso prioriza al resolver los problemas más urgentes de la comunidad y
+una manera más

@@ -1,0 +1,8 @@
+﻿Las metodologías ágiles, la automatización y canales como Telegram optimizan la participación ciudadana al dinamizar la 
+comunicación y la gestión. Las dinámicas ágiles permiten dividir proyectos complejos en tareas pequeñas, facilitando 
+adaptaciones rápidas según las necesidades comunitarias. Por su parte, la automatización reduce la carga administrativa 
+mediante respuestas instantáneas y procesamiento de datos sin errores humanos. Finalmente, Telegram funciona como un canal
+masivo y accesible que centraliza la información mediante bots estructurados. Esta combinación tecnológica rompe las 
+barreras burocráticas tradicionales que suelen alejar a la población. El resultado directo es una estructura organizada que 
+fomenta una colaboración democrática transparente. Así, se transforma la gestión pública en un proceso interactivo,
+eficiente y de constante retroalimentación.
